@@ -8,7 +8,7 @@ using namespace sfw;
 void main()
 {
 	initContext(800,600,"pong");
-
+	//d/asda
 	// da
 	float acc = 0;
 	char c = '\0';
