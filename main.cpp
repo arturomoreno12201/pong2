@@ -9,7 +9,7 @@ void main()
 {
 	initContext(800,600,"pong");
 
-
+	// da
 	float acc = 0;
 	char c = '\0';
 	
